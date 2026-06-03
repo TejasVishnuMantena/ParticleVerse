@@ -148,6 +148,6 @@ If you like this project:
 
 ## 👨‍💻 Author
 
-Developed with ❤️ by **Vishnu**
+Developed by **Tejas Vishnu Mantena**
 
 > *"Turning words into living particles."*
